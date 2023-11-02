@@ -33,6 +33,13 @@ main{
     gap: 10px;
     height: fit-content;
 }
+@media screen and (max-width: 1023px){
+
+    main{
+        grid-template-columns:1fr ;
+      }
+    
+}
 
 .left{
     display: grid;

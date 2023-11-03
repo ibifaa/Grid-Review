@@ -21,7 +21,7 @@ p{
 }
 
 h4{
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     margin-bottom: 20px;
     line-height: 1.2;
 }
@@ -30,7 +30,7 @@ h4{
 main{
   width: 100%;
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 6fr 2fr;
     gap: 20px;
 }
 
@@ -163,7 +163,7 @@ img{
           }
     
           p{
-            font-size: 1rem;
+            font-size: 1.2rem;
           }
     
           h4{
@@ -173,12 +173,12 @@ img{
     } 
   
     .right .main-content p{
-        font-size: 0.9rem;
+        font-size: 1.2rem;
        
     }
 
     .right .main-content h4{
-        font-size: 1.2rem
+        font-size: 1.7rem
        
     }
 
@@ -191,7 +191,7 @@ img{
 }
 
 .details-section p{
-    font-size: 0.8rem;
+    font-size: 1rem;
        opacity: 40%;
 }
 
